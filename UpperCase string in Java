@@ -1,0 +1,9 @@
+Import java.util.*;.
+class ABC{
+    public static void main(String args[])
+    {
+        String str = "i am shagun mishra”;
+ String strup = str.toUpperCase();
+        System.out.println(strup);
+    }
+}
